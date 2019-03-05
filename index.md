@@ -1,5 +1,6 @@
-## Welcome to Ricky's GitHub Pages
 title: Welcome to Ricky's homepage
+## Welcome to Ricky's GitHub Pages
+
 
 You can use the [editor on GitHub](https://github.com/rjp0i/rjp0i.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
