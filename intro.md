@@ -92,6 +92,7 @@ Now we have two branches: master and readme-edits
     * commits should be done early and often
     * no change is too small to commit
     * write a commit message that describes your changes
+    ![alt text](https://imgs.xkcd.com/comics/git_commit.png  "xkcd git commit")
     
 * Now the master and readme-edits branches differ
     
