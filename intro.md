@@ -1,7 +1,9 @@
 # git-intro
 uva library workshop on introduction to git and GitHub/GitLab
 
-# https://rjp0i.github.io/intro.html
+# https://rjp0i.github.io/intro.html (this page - prettified web version)
+
+# https://github.com/rjp0i/git-intro (repository)
 
 ## About Me
 * Ricky Patterson [Associate Director, Research Data Services, UVA Library](http://people.virginia.edu/~rjp0i)
