@@ -32,13 +32,13 @@ uva library workshop on introduction to git and GitHub/GitLab
 You can look at GitHub's [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 
 ## Getting Git
-* to play along you will need a github account --> https://github.com/
+* to play along you will need a [GitHub](https://github.com) account --> https://github.com/
 
 * if on mac/linux you probably already have git, but we also want GitHub Desktop
-  * goto http://desktop.github.com and download
+  * goto [GitHub Desktop](http://desktop.github.com) and download
   
 * if on windows, the latest version of GitHub desktop won't include the git "command line tools." We won't need them today, but they are available:
-  * goto https://gitforwindows.org/ and download
+  * goto [Git for Windows](https://gitforwindows.org/) and download
 
 ## Outline
 0. Some background
@@ -66,7 +66,7 @@ You can look at GitHub's [Git Handbook](https://guides.github.com/introduction/g
   4. readme.md is rendered as Markdown (github automatically shows the readme file, very handy)
   
 ### Step 1 - create your own repo 
-[https://guides.github.com/activities/hello-world/#repository](https://guides.github.com/activities/hello-world/#repository)
+[Github Guide](https://guides.github.com/activities/hello-world/#repository)
 * Not so obvious, but in the upper right hand corner, click the '+' button, pull down: select 'new repository'
   1. name (this will be the address of the repo...)
   2. description
@@ -75,7 +75,7 @@ You can look at GitHub's [Git Handbook](https://guides.github.com/introduction/g
   5. license
   
 ### Step 2 - create a branch
-[https://guides.github.com/activities/hello-world/#branch](https://guides.github.com/activities/hello-world/#branch)
+[Github Guide](https://guides.github.com/activities/hello-world/#branch)
 * Let's leave the master branch alone and create a new branch
  1. Click the drop down at the top of the file list that says branch: master.
  2. Type a branch name, readme-edits, into the new branch text box.
