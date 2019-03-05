@@ -1,7 +1,7 @@
 # git-intro
 uva library workshop on introduction to git and GitHub/GitLab
 
-# https://rjp0i.github.io/intro
+# https://rjp0i.github.io/intro.html
 
 ## About Me
 * [Associate Director, Research Data Services, UVA Library](http://people.virginia.edu/~rjp0i)
