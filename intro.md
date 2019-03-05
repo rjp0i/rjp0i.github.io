@@ -4,7 +4,7 @@ uva library workshop on introduction to git and GitHub/GitLab
 # https://rjp0i.github.io/intro.html
 
 ## About Me
-* [Associate Director, Research Data Services, UVA Library](http://people.virginia.edu/~rjp0i)
+* Ricky Patterson [Associate Director, Research Data Services, UVA Library](http://people.virginia.edu/~rjp0i)
 * I was a research astronomer for 20+ years here at UVA
 
 ## Data Resources in the UVA Library
@@ -47,7 +47,7 @@ You can look at GitHub's [Git Handbook](https://guides.github.com/introduction/g
 3. Tips on getting help
 
 ### Cartoons
-* ![alt text](https://xkcd.com/1597/ "xkcd")
+![alt text](https://imgs.xkcd.com/comics/git.png "xkcd git")
 
 ### A brief history of Version Control
 * CVS (1990s)
