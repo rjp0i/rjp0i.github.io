@@ -47,9 +47,9 @@ You can look at GitHub's [Git Handbook](https://guides.github.com/introduction/g
 3. Tips on getting help
 
 ### Cartoons
-* [](http://phdcomics.com/comics.php?f=1531)
-* [](https://swcarpentry.github.io/2014-06-24-wise-penn/lessons/nelle-git/git.html)
-* [](https://xkcd.com/1597/)
+* ![](http://phdcomics.com/comics.php?f=1531)
+* ![](https://swcarpentry.github.io/2014-06-24-wise-penn/lessons/nelle-git/git.html)
+* ![](https://xkcd.com/1597/)
 
 ### A brief history of Version Control
 * CVS (1990s)
