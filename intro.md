@@ -57,7 +57,7 @@ You can look at GitHub's [Git Handbook](https://guides.github.com/introduction/g
 * git (2005) courtesy of [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
 
 ### Hello World
-* Let's look at GitHub's [Hello World Guide[(https://guides.github.com/activities/hello-world/)
+* Let's look at GitHub's [Hello World Guide](https://guides.github.com/activities/hello-world/)
 
 ### Step 1 - inspect this repo
 * In a web browser, visit this repo: https://github.com/rjp0i/git-intro
