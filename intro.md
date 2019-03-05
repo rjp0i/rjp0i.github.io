@@ -22,7 +22,7 @@ uva library workshop on introduction to git and GitHub/GitLab
 
 * git - version control software
 * GitHub - a for profit company recently purchased by Microsoft
-* GitLab - an alternative to GitHub, not owned by Microsoft [why you might want to switch](https://about.gitlab.com/2017/07/19/git-wars-switching-to-gitlab/). "Free software deserves free tools"
+* GitLab - an alternative to GitHub, not owned by Microsoft ([why you might want to switch](https://about.gitlab.com/2017/07/19/git-wars-switching-to-gitlab/)). "Free software deserves free tools"
 * repository - Basic unit in git: a record of all changes to specified files (aka repo)
 * fork - personal copy of another users repo
 * branch - a parallel version of a repo (main branch is called "master")
@@ -59,7 +59,7 @@ You can look at GitHub's [Git Handbook](https://guides.github.com/introduction/g
 ### Hello World
 * Let's look at GitHub's [Hello World Guide](https://guides.github.com/activities/hello-world/)
 
-### Step 1 - inspect this repo
+### Step 0 - inspect this current repo
 * In a web browser, visit this repo: https://github.com/rjp0i/git-intro
 * we are in the github interface:
   1. upper left corner: notebook icon next to rjp0i/git-intro  (a repo)
@@ -67,7 +67,8 @@ You can look at GitHub's [Git Handbook](https://guides.github.com/introduction/g
   3. list of files (how to browse the files)
   4. readme.md is rendered as Markdown (github automatically shows the readme file, very handy)
   
-### Step 2 - create a repo
+### Step 1 - create your own repo 
+https://guides.github.com/activities/hello-world/#repository
 * Not so obvious, but in the upper right hand corner, click the '+' button, pull down: select 'new repository'
   1. name (this will be the address of the repo...)
   2. description
@@ -75,28 +76,38 @@ You can look at GitHub's [Git Handbook](https://guides.github.com/introduction/g
   4. initialize with readme (alway say yes)
   5. license
   
-### Step 3 - edit a file
-* click on readme.md in the list and then click the pencil
+### Step 2 - create a branch
+https://guides.github.com/activities/hello-world/#branch
+* Let's leave the master branch alone and create a new branch
+ 1. Click the drop down at the top of the file list that says branch: master.
+ 2. Type a branch name, readme-edits, into the new branch text box.
+ 3. Select the blue Create branch box or just hit “Enter” on your keyboard.
+
+Now we have two branches: master and readme-edits
+
+### Step 3 - edit a file and commit changes
+https://guides.github.com/activities/hello-world/#commit
+* You should now be in the readme-edits branch.
+* click on README.md in the list and then click the pencil to edit the file
   1. now type in the editor
   2. when done click green button at bottom 'commit changes'
     * commits should be done early and often
     * no change is too small to commit
-    * leave a message that is maybe *5* words long and includes a verb
+    * write a commit message that describes your changes
     
-### Step 4 - collaboration
-* Direct Collaboration - collaborator
-  * add a collaborator to your repo
-  * setting tab (top of repo page) --> collaborators menu (LHS of settings page)
-  * search users to add by username/email
-  * **This gives the collaborator power to commit directly**
+* Now the master and readme-edits branches differ
+    
+### Step 4 - Pull requests
+https://guides.github.com/activities/hello-world/#pr
 * Indirect Collaboration - pull requests
-  * click fork button (upper right of repo page)
-  * look at upper left corner and note the new symbol and pointer
-  * **This is a completely functional independent repo**
-  * You may reccomend changes to the remote by initiating a pull request
-    * click the pull request button
-    * this is a little tricky so let's walk slowly
-  * Demo, someone please pull request me and I'll show on screen what it looks like  
+  1. Click the "Pull Request" tab, then "New pull request"
+  2. In the Example Comparisons box, select the branch you made, readme-edits, to compare with master (the original).
+  3. Proofread your changes in the diffs on the Compare page 
+  4. When ready to submit, click the Create Pull Request Button
+  5. Write a title and a brief description of your changes ![alt text](https://guides.github.com/activities/hello-world/pr-form.png "Step 5")
+  6. Click Create Pull Request
+
+
 
 
 ### Step 5 - local v cloud
