@@ -98,10 +98,10 @@ https://guides.github.com/activities/hello-world/#commit
 ### Step 4 - Pull requests
 https://guides.github.com/activities/hello-world/#pr
 * Indirect Collaboration - pull requests
-  1. Click the "Pull Request" tab, then "New pull request"
-  2. In the Example Comparisons box, select the branch you made, readme-edits, to compare with master (the original).
-  3. Proofread your changes in the diffs on the Compare page 
-  4. When ready to submit, click the Create Pull Request Button
+  1. Click the "Pull Request" tab, then "New pull request" ![alt text](https://guides.github.com/activities/hello-world/pr-tab.gif "Step 1")
+  2. In the Example Comparisons box, select the branch you made, readme-edits, to compare with master (the original).![alt text](https://guides.github.com/activities/hello-world/pick-branch.png "Step 2")
+  3. Proofread your changes in the diffs on the Compare page ![alt text](https://guides.github.com/activities/hello-world/diff.png "Step 3")
+  4. When ready to submit, click the Create Pull Request Button ![alt text](https://guides.github.com/activities/hello-world/create-pr.png "Step 4")
   5. Write a title and a brief description of your changes ![alt text](https://guides.github.com/activities/hello-world/pr-form.png "Step 5")
   6. Click Create Pull Request
 
