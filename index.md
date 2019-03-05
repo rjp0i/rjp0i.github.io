@@ -1,4 +1,3 @@
-title: Welcome to Ricky's homepage
 ## Welcome to Ricky's GitHub Pages
 
 
