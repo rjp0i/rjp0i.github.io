@@ -149,7 +149,7 @@ Now we have two branches: master and readme-edits
 
 ## How to compare revisions
 * Visit URL of this form (replacing $USER, $REPO, $REV_A and $REV_B) https://github.com/$USER/$REPO/compare/$REV_A...$REV_B
-* $REV_A and B are the commit hashes for the versions you want o compare. You can get these by examining the Commit history of a file on Github
+* $REV_A and B are the commit hashes for the versions you want to compare. You can get these by examining the Commit history of a file on Github
 
 # Ways to Practice
 1. Write some code
