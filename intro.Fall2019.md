@@ -1,8 +1,18 @@
-# git-intro
-UVA Library Workshop on Introduction to Git and GitHub/GitLab. 
 
-This file exists 
-here: https://github.com/rjp0i/git-intro (or [here](https://rjp0i.github.io/intro.Fall2019.html), for a prettified view)
+# UVA workshop!
+
+<em>Fork edits</em>
+
+# git-intro
+
+
+<em>Changes made here. More changes.</em>
+
+UVA Library Workshop on Introduction to Git and GitHub/GitLab.
+
+
+
+This file exists here: https://github.com/rjp0i/git-intro (or visit [here](https://rjp0i.github.io/intro.Fall2019.html) for a prettified view)
 
 ## About Me
 * Ricky Patterson: I am the [Associate Director, Research Data Services, UVA Library](http://people.virginia.edu/~rjp0i)
@@ -38,7 +48,7 @@ You can look at GitHub's [Git Handbook](https://guides.github.com/introduction/g
 * If on mac/linux you probably already have git, but we also want GitHub Desktop
   * goto [http://desktop.github.com](http://desktop.github.com) and download
   
-* If on windows, the latest version of GitHub [desktop](http://desktop.github.com) is fine for today, but it won't include the git "command line tools."  They are available:
+* If on windows, the latest version of GitHub desktop [http://desktop.github.com](http://desktop.github.com) is fine for today, but it won't include the git "command line tools."  They are available:
   * Go to [https://gitforwindows.org/](https://gitforwindows.org/) and download
 
 ## Outline
@@ -48,19 +58,20 @@ You can look at GitHub's [Git Handbook](https://guides.github.com/introduction/g
 3. Tips on getting help
 
 ## Reference for Git
-The book <em>Computing Skills for Biologists: A Toolbox</em> contains a very useful introduction to Git, with practice data and code. Members of the UVA community can access the book [online](http://proxy01.its.virginia.edu/login?url=http://www.degruyter.com/isbn/9780691183961). 
-The examples, data, code and solutions are hosted on a [github repo](https://github.com/CSB-book/CSB)
+The book <em>Computing Skills for Biologists: A Toolbox</em> contains a useful introduction to Git with practice data and code. Members of the UVA community can access the book [online](http://proxy01.its.virginia.edu/login?url=http://www.degruyter.com/isbn/9780691183961). 
+The examples, data, code, and solutions are hosted on a [github repo](https://github.com/CSB-book/CSB]https://github.com/CSB-book/CSB)
+
 ### A brief history of Version Control
 * CVS (1990s) Centralized (client-server)
 * SVN (2000s) Centralized (client-server)
 * git (2005) Distributed. Developed by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) for Linux development.
 
 ### Getting Started: Hello World
-* Let's walk through GitHub's [Hello World Guide](https://guides.github.com/activities/hello-world/)
+* Let's walk through GitHub's [Hello World Guide](https://guides.github.com/activities/hello-world/) in the steps below.
 
 ### Using Github
 ### Step 0 - inspect this current repo
-* In a web browser, visit this [repo](https://github.com/rjp0i/git-intro)
+* In a web browser, visit this repo: [https://github.com/rjp0i/git-intro](https://github.com/rjp0i/git-intro)
 * We are in the github interface:
   1. upper left corner: notebook icon next to rjp0i/git-intro  (a repo)
   2. big green button on the right hand side (down a little) says "Clone or Download" (how to get the files)
@@ -107,7 +118,7 @@ Now we have two branches: master and readme-edits
   5. Write a title and a brief description of your changes ![alt text](https://guides.github.com/activities/hello-world/pr-form.png "Step 5")
   6. Click Create Pull Request
   
-  ### Step 4.5 - Merging Pull Requests
+  ### Step 5 - Merging Pull Requests
   [https://guides.github.com/activities/hello-world/#merge](https://guides.github.com/activities/hello-world/#merge)
   * Now, let's merge the Pull Request, to bring the changes from readme-edits into the master branch.
   1. Click the green Merge pull request button to merge the changes into master.
@@ -115,6 +126,22 @@ Now we have two branches: master and readme-edits
   2. Click Confirm merge.
   3. Now we can delete the readme-edits branch, since its changes have been incorporated into master. You'll be prompted to do so inside the purple box. 
   ![alt text](https://guides.github.com/activities/hello-world/delete-button.png "delete branch")
+  
+  ### Step 5.1 - Resolving Conflicts when Merging Pull Requests
+  [https://help.github.com/en/articles/resolving-a-merge-conflict-on-github](https://help.github.com/en/articles/resolving-a-merge-conflict-on-github)
+  * Any time a merge is attempted when changes have been made to both versions of the same line of a file (in the master and in a fork, say), then you will have to resolve the conflicts in the merge.
+  * Often, you can just use the github interface to do this. If this is the case (i.e., the conflict isn't too complex), a Resolve Conflicts button will appear (and not be greyed-out). 
+  ![alt text](https://help.github.com/assets/images/help/pull_requests/resolve-merge-conflicts-button.png "resolve conflicts")
+  * Clicking on "Resolve Conflicts" will show you the conflict and use symbols to indicate the location of the conflict (<<<<<<< <em>branch1-name</em>, =======, >>>>>>><em>branch2-name</em>), and the two versions of the conflicting line. 
+  ![alt_text](https://help.github.com/assets/images/help/pull_requests/view-merge-conflict-with-markers.png "Conflict Markers")
+  * Choose the correct version of the line (or edit one version), and remove the other version, and remove the symbols and the branch/fork names, leaving just the text you want in the final version.
+  * Resolve any other marked conflicts in the file.
+  * Click on Mark as Resolved.
+  ![alt_text](https://help.github.com/assets/images/help/pull_requests/mark-as-resolved-button.png "Mark Resolved")
+  * Resolve conflicts in any other files.
+  * Click on Commit Merge (and click on the I understand pop-up).
+  ![alt_text](https://help.github.com/assets/images/help/pull_requests/merge-conflict-commit-changes.png "Commit Merge")
+  * Finally, click on Merge Pull Request, and then confirm the merge.
 
 
 
@@ -141,20 +168,21 @@ Now we have two branches: master and readme-edits
 ## Getting Help
 
 * Please, feel free to email me: ricky@virginia.edu
-* The book <em>Computing Skills for Biologists: A Toolbox</em> contains a very useful introduction to Git, with practice data and code. Members of the UVA community can access the book [http://proxy01.its.virginia.edu/login?url=http://www.degruyter.com/isbn/9780691183961]online. 
-  * The examples, data, code and solutions are hosted on a github repo: [https://github.com/CSB-book/CSB]https://github.com/CSB-book/CSB
+* The book <em>Computing Skills for Biologists: A Toolbox</em> contains a very useful introduction to Git, with practice data and code. Members of the UVA community can access the book [online](http://proxy01.its.virginia.edu/login?url=http://www.degruyter.com/isbn/9780691183961)
+  * The examples, data, code and solutions are hosted on a [github repo](https://github.com/CSB-book/CSB]https://github.com/CSB-book/CSB)
 * Lots of [git](https://git-scm.com/)/[GitHub](https://guides.github.com/)/[GitLab](https://gitlab.com/help?nav_source=navbar) resources from the source, as well as free training through a number of github sites
-* StackOverflow is another good resource (e.g., for questions concerning git (or GitHub/GitLab): https://stackoverflow.com/questions/tagged/git)
+* StackOverflow is another good resource (e.g., for questions concerning git (or GitHub/GitLab): [https://stackoverflow.com/questions/tagged/git]https://stackoverflow.com/questions/tagged/git)
 
 ## How to compare revisions
-* Visit URL of this form (replacing $USER, $REPO, $REV_A and $REV_B) https://github.com/$USER/$REPO/compare/$REV_A...$REV_B
+* use the following style of URL with two commit hashes (Rev A and Rev B)
+ * https://github.com/$USER/$REPO/compare/$REV_A...$REV_B
 * $REV_A and B are the commit hashes for the versions you want to compare. You can get these by examining the Commit history of a file on Github
 
 # Ways to Practice
-1. Write some code, or text
+1. Write some code, or some text
 2. Do the version control in github
 3. Edit it yourself
-3. Have a friend make some edits as well
+4. Have a friend do some edits as well
 
-# This is an additional edit for practice.
-Hopefully this works 
+<em># This is an additional edit for practice.
+Hopefully this works </em>
