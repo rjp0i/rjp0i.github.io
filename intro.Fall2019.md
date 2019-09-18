@@ -133,7 +133,7 @@ Now we have two branches: master and readme-edits
   
  
 ### Additional Items
-  * Command Line Interface (CLI) [cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+  * Command Line Interface (CLI) [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
   * Organizations (such as https://github.com/UVA-RDS)
   * [Webpages](https://pages.github.com/) (such as https://rjp0i.github.io/intro.html)
   * Branches
