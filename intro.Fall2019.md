@@ -2,7 +2,7 @@
 UVA Library Workshop on Introduction to Git and GitHub/GitLab. 
 
 This file exists here:
-https://github.com/rjp0i/git-intro (or visit https://rjp0i.github.io/intro.Fall2019.html for a prettified view)
+[https://github.com/rjp0i/git-intro]https://github.com/rjp0i/git-intro (or visit [https://rjp0i.github.io/intro.Fall2019.html]https://rjp0i.github.io/intro.Fall2019.html  for a prettified view)
 
 ## About Me
 * Ricky Patterson: I am the [Associate Director, Research Data Services, UVA Library](http://people.virginia.edu/~rjp0i)
@@ -148,9 +148,8 @@ Now we have two branches: master and readme-edits
 * StackOverflow is another good resource (e.g., for questions concerning git (or GitHub/GitLab): https://stackoverflow.com/questions/tagged/git)
 
 ## How to compare revisions
-* use the following URL with two commit hashes (Rev A and Rev B), thusly:
-  * https://github.com/$USER/$REPO/compare/$REV_A...$REV_B
-* eg: https://github.com/alonzi/feynman/compare/b08a2a61bb96ccfea3127a92a8c356df3f3b6f0e...master
+* Visit URL of this form (replacing $USER, $REPO, $REV_A and $REV_B) https://github.com/$USER/$REPO/compare/$REV_A...$REV_B
+* $REV_A and B are the commit hashes for the versions you want o compare. You can get these by examining the Commit history of a file on Github
 
 # Ways to Practice
 1. Write some code
