@@ -1,8 +1,8 @@
 # git-intro
 UVA Library Workshop on Introduction to Git and GitHub/GitLab. 
 
-This file exists here:
-[https://github.com/rjp0i/git-intro]https://github.com/rjp0i/git-intro (or visit [https://rjp0i.github.io/intro.Fall2019.html]https://rjp0i.github.io/intro.Fall2019.html  for a prettified view)
+This file exists 
+[https://github.com/rjp0i/git-intro]here (or [https://rjp0i.github.io/intro.Fall2019.html]here, for a prettified view)
 
 ## About Me
 * Ricky Patterson: I am the [Associate Director, Research Data Services, UVA Library](http://people.virginia.edu/~rjp0i)
@@ -49,8 +49,7 @@ You can look at GitHub's [Git Handbook](https://guides.github.com/introduction/g
 
 ## Reference for Git
 The book <em>Computing Skills for Biologists: A Toolbox</em> contains a very useful introduction to Git, with practice data and code. Members of the UVA community can access the book [http://proxy01.its.virginia.edu/login?url=http://www.degruyter.com/isbn/9780691183961]online. 
-The examples, data, code and solutions are hosted on a github repo: [https://github.com/CSB-book/CSB]https://github.com/CSB-book/CSB
-
+The examples, data, code and solutions are hosted on a github [https://github.com/CSB-book/CSB]repo
 ### A brief history of Version Control
 * CVS (1990s) Centralized (client-server)
 * SVN (2000s) Centralized (client-server)
@@ -61,7 +60,7 @@ The examples, data, code and solutions are hosted on a github repo: [https://git
 
 ### Using Github
 ### Step 0 - inspect this current repo
-* In a web browser, visit this repo: [https://github.com/rjp0i/git-intro](https://github.com/rjp0i/git-intro)
+* In a web browser, visit this [https://github.com/rjp0i/git-intro]repo
 * We are in the github interface:
   1. upper left corner: notebook icon next to rjp0i/git-intro  (a repo)
   2. big green button on the right hand side (down a little) says "Clone or Download" (how to get the files)
