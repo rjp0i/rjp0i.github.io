@@ -2,7 +2,7 @@
 UVA Library Workshop on Introduction to Git and GitHub/GitLab. 
 
 This file exists 
-[https://github.com/rjp0i/git-intro]here (or [https://rjp0i.github.io/intro.Fall2019.html]here, for a prettified view)
+[here](https://github.com/rjp0i/git-intro) (or [here](https://rjp0i.github.io/intro.Fall2019.html), for a prettified view)
 
 ## About Me
 * Ricky Patterson: I am the [Associate Director, Research Data Services, UVA Library](http://people.virginia.edu/~rjp0i)
@@ -38,7 +38,7 @@ You can look at GitHub's [Git Handbook](https://guides.github.com/introduction/g
 * If on mac/linux you probably already have git, but we also want GitHub Desktop
   * goto [http://desktop.github.com](http://desktop.github.com) and download
   
-* If on windows, the latest version of GitHub desktop [http://desktop.github.com](http://desktop.github.com) is fine for today, but it won't include the git "command line tools."  They are available:
+* If on windows, the latest version of GitHub [desktop](http://desktop.github.com) is fine for today, but it won't include the git "command line tools."  They are available:
   * Go to [https://gitforwindows.org/](https://gitforwindows.org/) and download
 
 ## Outline
@@ -48,8 +48,8 @@ You can look at GitHub's [Git Handbook](https://guides.github.com/introduction/g
 3. Tips on getting help
 
 ## Reference for Git
-The book <em>Computing Skills for Biologists: A Toolbox</em> contains a very useful introduction to Git, with practice data and code. Members of the UVA community can access the book [http://proxy01.its.virginia.edu/login?url=http://www.degruyter.com/isbn/9780691183961]online. 
-The examples, data, code and solutions are hosted on a github [https://github.com/CSB-book/CSB]repo
+The book <em>Computing Skills for Biologists: A Toolbox</em> contains a very useful introduction to Git, with practice data and code. Members of the UVA community can access the book [online](http://proxy01.its.virginia.edu/login?url=http://www.degruyter.com/isbn/9780691183961). 
+The examples, data, code and solutions are hosted on a [github repo](https://github.com/CSB-book/CSB)
 ### A brief history of Version Control
 * CVS (1990s) Centralized (client-server)
 * SVN (2000s) Centralized (client-server)
@@ -60,7 +60,7 @@ The examples, data, code and solutions are hosted on a github [https://github.co
 
 ### Using Github
 ### Step 0 - inspect this current repo
-* In a web browser, visit this [https://github.com/rjp0i/git-intro]repo
+* In a web browser, visit this [repo](https://github.com/rjp0i/git-intro)
 * We are in the github interface:
   1. upper left corner: notebook icon next to rjp0i/git-intro  (a repo)
   2. big green button on the right hand side (down a little) says "Clone or Download" (how to get the files)
