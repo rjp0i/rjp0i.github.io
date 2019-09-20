@@ -158,17 +158,16 @@ Now we have two branches: master and readme-edits
   If you are not a collaborator in a repo, you can't branch that repo. However, you can "fork" it, which is just creates a clone of the repo on the GitHub server.
   1. You can't push changes directly back to the original repo.
   2. You'll want to work on keeping your fork in sync with the project
-    * add it to the original project as a remote, or
-    * fetching regularly from the original repo
+      * add it to the original project as a remote, or
+      * fetching regularly from the original repo
     
   Try forking from my repo, and make changes to the resulting fork, and then submit a pull request to me!
   
  
 ### Additional Items
   * Command Line Interface (CLI) [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
-  * Organizations (such as https://github.com/UVA-RDS)
-  * [Webpages](https://pages.github.com/) (such as https://rjp0i.github.io/intro.html)
-  * Branches
+  * [Create your own Webpage](https://pages.github.com/) (such as https://rjp0i.github.io/intro.html)
+
 
 ## Getting Help
 
