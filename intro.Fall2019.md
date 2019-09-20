@@ -116,36 +116,36 @@ Now we have two branches: master and readme-edits
 ### Step 4 - Making Pull Requests
 [https://guides.github.com/activities/hello-world/#pr](https://guides.github.com/activities/hello-world/#pr)
 * Indirect Collaboration - pull requests
-  1. Click the "Pull Request" tab, then "New pull request" ![alt text](https://guides.github.com/activities/hello-world/pr-tab.gif "Step 1")
-  2. In the Example Comparisons box, select the branch you made, readme-edits, to compare with master (the original).![alt text](https://guides.github.com/activities/hello-world/pick-branch.png "Step 2")
-  3. Proofread your changes in the diffs on the Compare page ![alt text](https://guides.github.com/activities/hello-world/diff.png "Step 3")
-  4. When ready to submit, click the Create Pull Request Button ![alt text](https://guides.github.com/activities/hello-world/create-pr.png "Step 4")
-  5. Write a title and a brief description of your changes ![alt text](https://guides.github.com/activities/hello-world/pr-form.png "Step 5")
+  1. Click the "Pull Request" tab, then "New pull request" ![alt text](https://guides.github.com/activities/hello-world/pr-tab.gif "Pull Step 1")
+  2. In the Example Comparisons box, select the branch you made, readme-edits, to compare with master (the original).![alt text](https://guides.github.com/activities/hello-world/pick-branch.png "Pull Step 2")
+  3. Proofread your changes in the diffs on the Compare page ![alt text](https://guides.github.com/activities/hello-world/diff.png "Pull Step 3")
+  4. When ready to submit, click the Create Pull Request Button ![alt text](https://guides.github.com/activities/hello-world/create-pr.png "Pull Step 4")
+  5. Write a title and a brief description of your changes ![alt text](https://guides.github.com/activities/hello-world/pr-form.png "Pull Step 5")
   6. Click Create Pull Request
   
   ### Step 5 - Merging Pull Requests
   [https://guides.github.com/activities/hello-world/#merge](https://guides.github.com/activities/hello-world/#merge)
   * Now, let's merge the Pull Request, to bring the changes from readme-edits into the master branch.
   1. Click the green Merge pull request button to merge the changes into master.
-    ![alt text](https://guides.github.com/activities/hello-world/merge-button.png "step 4.5")
+    ![alt text](https://guides.github.com/activities/hello-world/merge-button.png "Merge Step 1")
   2. Click Confirm merge.
   3. Now we can delete the readme-edits branch, since its changes have been incorporated into master. You'll be prompted to do so inside the purple box. 
-  ![alt text](https://guides.github.com/activities/hello-world/delete-button.png "delete branch")
+  ![alt text](https://guides.github.com/activities/hello-world/delete-button.png "Merge Step 2")
   
   ### Step 5.1 - Resolving Conflicts when Merging Pull Requests
   [https://help.github.com/en/articles/resolving-a-merge-conflict-on-github](https://help.github.com/en/articles/resolving-a-merge-conflict-on-github)
   * Any time a merge is attempted when changes have been made to both versions of the same line of a file (in the master and in a fork, say), then you will have to resolve the conflicts in the merge.
   * Often, you can just use the github interface to do this. If this is the case (i.e., the conflict isn't too complex), a Resolve Conflicts button will appear (and not be greyed-out). 
-  ![alt text](https://help.github.com/assets/images/help/pull_requests/resolve-merge-conflicts-button.png "resolve conflicts")
-  * Clicking on "Resolve Conflicts" will show you the conflict and use symbols to indicate the location of the conflict (`<<<<<<< <em>branch1-name</em>`, `=======`, `>>>>>>><em>branch2-name</em>`), and the two versions of the conflicting line. 
-  ![alt_text](https://help.github.com/assets/images/help/pull_requests/view-merge-conflict-with-markers.png "Conflict Markers")
+  ![alt text](https://help.github.com/assets/images/help/pull_requests/resolve-merge-conflicts-button.png "Conflicts Step 1")
+  * Clicking on "Resolve Conflicts" will show you the conflict and use symbols to indicate the location of the conflict (`<<<<<<<branch1-name`, `=======`, `>>>>>>>branch2-name`), and the two versions of the conflicting line. 
+  ![alt_text](https://help.github.com/assets/images/help/pull_requests/view-merge-conflict-with-markers.png "Conflicts Step 2")
   * Choose the correct version of the line (or edit one version), then remove the other version and remove the symbols and the branch/fork names, <em>leaving only the text you want in the final version</em>.
   * Resolve any other marked conflicts in the file.
   * Click on Mark as Resolved.
-  ![alt_text](https://help.github.com/assets/images/help/pull_requests/mark-as-resolved-button.png "Mark Resolved")
+  ![alt_text](https://help.github.com/assets/images/help/pull_requests/mark-as-resolved-button.png "Conflicts Step 3")
   * Resolve conflicts in any other files.
   * Click on Commit Merge (and click on the I understand pop-up).
-  ![alt_text](https://help.github.com/assets/images/help/pull_requests/merge-conflict-commit-changes.png "Commit Merge")
+  ![alt_text](https://help.github.com/assets/images/help/pull_requests/merge-conflict-commit-changes.png "Conflicts Step 4")
   * Finally, click on Merge Pull Request, and then confirm the merge.
 
 
